@@ -1,0 +1,16 @@
+.head{
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.p3{
+	color: #7b7b7b;
+	margin-bottom: -5px;
+    font-size: 14px;
+
+}
+.col-div-4{
+	width: 35%;
+	float: left;
+
+}

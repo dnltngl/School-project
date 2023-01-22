@@ -1,0 +1,35 @@
+.head{
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 600;
+    
+}
+.col-div-8{
+	width: 62%;
+	float: left;
+}
+
+.p3{
+	color: #7b7b7b;
+	margin-bottom: -5px;
+
+}
+
+.line{
+	border-left: 1px solid #c7c7c7;
+  height: 800px;
+  width: 2%;
+  margin-top: 30px;
+  float:left;
+}
+
+.head{
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 600;
+    
+}
+.p-4{
+	font-size: 14px;
+	color: #7b7b7b;
+}
